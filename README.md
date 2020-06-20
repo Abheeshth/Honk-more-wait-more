@@ -28,10 +28,6 @@ Analog Input pin : 6
 ### 3.LED
 ### 4.Resistors
 
-# Screen shot of the system
-
-![](Group 10 DSAI Photo.PNG)
-
 
 
 

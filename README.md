@@ -30,7 +30,7 @@ Analog Input pin : 6
 
 # Screen shot of the system
 
-![](Group 10 DSAI Photo)
+![](Group 10 DSAI Photo.PNG)
 
 
 
